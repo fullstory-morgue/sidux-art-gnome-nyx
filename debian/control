@@ -1,0 +1,14 @@
+Source: sidux-art-gnome-nyx
+Section: graphics
+Priority: extra
+Maintainer: Bernard Gray <bernard.gray@gmail.com>
+Build-Depends: cdbs, debhelper (>= 6)
+Standards-Version: 3.7.2
+
+Package: sidux-art-gnome-nyx
+Architecture: all
+Provides: sidux-art-gnome
+Depends: gdm
+Description: GNOME theme for sidux 2008-01 nyx
+ Provides gdm theme only at this stage,
+ for sidux 2008-01 Nyx release
