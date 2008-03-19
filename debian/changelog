@@ -1,8 +1,8 @@
-sidux-art-gnome-nyx (0.2) UNRELEASED; urgency=low
+sidux-art-gnome-nyx (0.2) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * bump standards version to 3.7.3, no changes necessary.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 19 Mar 2008 13:52:56 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 19 Mar 2008 13:54:18 +0100
 
 sidux-art-gnome-nyx (0.1) unstable; urgency=low
 
