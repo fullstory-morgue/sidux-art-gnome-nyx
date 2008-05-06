@@ -1,3 +1,9 @@
+sidux-art-gnome-nyx (0.4) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 07 May 2008 01:51:36 +0200
+
 sidux-art-gnome-nyx (0.3) unstable; urgency=low
 
   * switch to the new dh implementation of debhelper 7.
