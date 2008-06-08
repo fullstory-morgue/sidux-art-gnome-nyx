@@ -3,7 +3,7 @@ Section: graphics
 Priority: extra
 Maintainer: Bernard Gray <bernard.gray@gmail.com>
 Build-Depends: debhelper (>= 7)
-Standards-Version: 3.7.3
+Standards-Version: 3.8.0
 
 Package: sidux-art-gnome-nyx
 Architecture: all
