@@ -1,8 +1,9 @@
-sidux-art-gnome-nyx (0.8) UNRELEASED; urgency=low
+sidux-art-gnome-nyx (0.8) ORPHANED; urgency=low
 
   * NOT RELEASED YET
+  * ORPHAN PACKAGE, moved to sidux-art-legacy.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 20 Feb 2009 17:31:55 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 19 Apr 2009 13:59:36 +0200
 
 sidux-art-gnome-nyx (0.7) unstable; urgency=low
 
